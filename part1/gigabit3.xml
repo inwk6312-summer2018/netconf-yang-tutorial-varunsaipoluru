@@ -1,0 +1,8 @@
+<filter>
+    <interfaces xmlns="urn:ietf:params:xml:ns:yang:ietf-interfaces">
+        <interfaces>
+            <name>GigabitEthernet3</name>
+        </interfaces>
+    </interfaces>>
+</filter>
+

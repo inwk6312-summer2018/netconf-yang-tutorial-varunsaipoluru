@@ -13,12 +13,12 @@ import xml.dom.minidom
 # the variables below assume the user is leveraging the
 # network programmability lab and accessing csr1000v
 # use the IP address or hostname of your CSR1000V device
-HOST = '10.0.131.205'
+HOST = '10.1.96.60'
 # use the NETCONF port for your CSR1000V device
 PORT = 830
 # use the user credentials for your CSR1000V device
-USER = 'cisco'
-PASS = 'cisco'
+USER = 'cisco1'
+PASS = 'cisco1'
 # XML file to open
 FILE = 'get_interfaces.xml'
 
